@@ -5,6 +5,7 @@
 /.next/
 /out/
 /dist
+/src/.next
 
 # misc
 .DS_Store
